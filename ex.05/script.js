@@ -7,5 +7,4 @@ for (let i = inicio; i <= fim; i++) {
         pares += i + " ";
     }
 }
-
 alert("Números pares encontrados: " + pares);
